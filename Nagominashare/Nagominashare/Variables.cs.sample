@@ -1,0 +1,14 @@
+namespace Nagominashare {
+    static class Variables {
+
+        //Google
+        public const string GoogleApiKey = "your api key";
+        public const string GoogleCustomSearchCx = "cx";
+
+        //docomo
+        public const string DocomoApiKey = "your api key";
+
+        //Yahoo
+        public const string YahooAppId = "your app id";
+    }
+}
