@@ -7,6 +7,10 @@
 ## ビルド
 `Variables.cs.sample`を`Variables.cs`にリネームしてAPI Keyを設定してください。
 
+## Twitter bot
+[和みなしゃれbot(@nagominashare)](https://twitter.com/nagominashare)  
+https://github.com/gedorinku/nagominashare-bot
+
 ## メンバー
 winjii - だじゃれ生成  
 Fukusan64 - サーバー  
