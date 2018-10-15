@@ -4,6 +4,9 @@
 [Hack U 2016 福岡会場](https://hacku.yahoo.co.jp/hacku2016fukuoka/)で発表した作品です。  
 このリポジトリはそのAndroidアプリ部分です。
 
+## 動画
+https://youtu.be/m98sTsHW2Us?t=1256
+
 ## ビルド
 `Variables.cs.sample`を`Variables.cs`にリネームしてAPI Keyを設定してください。
 
